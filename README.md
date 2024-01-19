@@ -32,7 +32,7 @@ Remember to close your session at the end of your notebook.
 
 - Plot the results by using the DataFrame plot method, as the following image shows:
 
-![output](output/precipitation_plot.png)
+![output](Output/precipitation_plot.png)
 
 - Use Pandas to print the summary statistics for the precipitation data.
 
@@ -56,7 +56,7 @@ Remember to close your session at the end of your notebook.
 
     - Plot the results as a histogram with bins=12, as the following image shows:
 
-![output](output/12_month_Temperature_Histogram.png)
+![output](Output/12_month_Temperature_Histogram.png)
 
 - Close your session.
 
