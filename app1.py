@@ -57,8 +57,8 @@ def welcome():
         f"/api/v1.0/precipitation<br/>"
         f"/api/v1.0/stations<br/>"
         f"/api/v1.0/tobs<br/>"
-        f"/api/v1.0/start (enter as YYYY-MM-DD)<br/>"
-        f"/api/v1.0/start/end (enter as YYYY-MM-DD/YYYY-MM-DD)"
+        f"/api/v1.0/start [start_date format:yyyy-mm-dd]<br/>"
+        f"/api/v1.0/start/end [start_date format:yyyy-mm-dd]/[end_date format:yyyy-mm-dd]<br/>"
         )
 
 #   - Convert the query results from your precipitation analysis (i.e. retrieve only the last 12 months of data) to a dictionary using date as the key and prcp as the value.
